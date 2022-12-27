@@ -1,10 +1,8 @@
 #include<iostream>
+#include"Functions/Graphics_2D.cpp"
+
 using namespace std;
 
-class GraphisUser {
-
-};
-
 int main(){
-    GraphisUser User;
+    
 }
